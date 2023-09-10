@@ -5,7 +5,7 @@ This repository contains the code and resources for my house price prediction pr
 **Dataset Description**: The dataset contains various features related to residential properties, including size, quality, location, and more. The target variable is the sale price of the properties.
 ## Project Stages:
 
-1.**Exploratory Data Analysis (EDA):** I conducted a thorough exploration of the dataset to understand its characteristics, visualize important patterns, and identify potential relationships between features.
+1. **Exploratory Data Analysis (EDA):** I conducted a thorough exploration of the dataset to understand its characteristics, visualize important patterns, and identify potential relationships between features.
 
 2. **Data Preprocessing:** This phase involved feature engineering, handling missing values, and transforming categorical variables into a suitable format for machine learning models.
 
